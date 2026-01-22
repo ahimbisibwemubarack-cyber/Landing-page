@@ -1,0 +1,8 @@
+{
+  "name": "Aviyo Plant-Based Nutrition",
+  "description": "A professional landing page for Aviyo, a Ugandan social enterprise revolutionizing plant-based milk alternatives with enzyme technology.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
